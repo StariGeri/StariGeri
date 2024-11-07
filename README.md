@@ -26,7 +26,7 @@ I am a Computer Science Student & Frontend Engineer from Budapest, Hungary.
 
 - :seedling: Exploring Technical Writing.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Gergo_Starosta-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gergo-starosta/)
+- :mailbox:Don't be a stranger: [![Linkedin Badge](https://img.shields.io/badge/-Gergo_Starosta-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gergo-starosta/)
 
 ---
 
