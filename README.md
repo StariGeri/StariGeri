@@ -17,11 +17,13 @@
 
 ### :man_technologist: About Me :
 I am a Computer Science Student & Frontend Engineer from Budapest, Hungary.
-- :telescope: Result and performance driven creative, developing web and mobile apps.
+- :telescope: Result and performance driven creative, developing web and mobile apps
 
-- :detective: Tech enthusiast.
+- :detective: Tech enthusiast
 
-- :seedling: Wrting about webdev / career.
+- :book: Currently learning Go
+
+- :seedling: Wrting about webdev / career
 
 - :mailbox:Don't be a stranger: [![Linkedin Badge](https://img.shields.io/badge/-Gergo_Starosta-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gergo-starosta/)
 
@@ -33,6 +35,7 @@ I am a Computer Science Student & Frontend Engineer from Budapest, Hungary.
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" title="Prisma" alt="Prisma" width="40" height="40"/>&nbsp;
