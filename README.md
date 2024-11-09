@@ -21,7 +21,7 @@ I am a Computer Science Student & Frontend Engineer from Budapest, Hungary.
 
 - :detective: Tech enthusiast
 
-- :book: Currently learning Go
+- :book: Currently learning NestJS
 
 - :seedling: Wrting about webdev / career
 
