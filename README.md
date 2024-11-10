@@ -16,7 +16,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Software Engineering Student & Frontend Engineer from Budapest, Hungary.
+I am a Computer Science Student & Frontend Engineer from Budapest, Hungary.
 - :telescope: Result and performance driven creative, developing web and mobile apps
 
 - :detective: Tech enthusiast
