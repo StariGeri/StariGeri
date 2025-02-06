@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="https://starigeri.hu/">
+  <a href="https://staridev.hu/">
     <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://blog.starigeri.hu/">
@@ -16,7 +16,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Computer Science Engineering Student & Frontend Engineer from Budapest, Hungary.
+I am a Computer Science Engineering Student & Full-stack dev with focus on Frontend development from Budapest, Hungary.
 - :telescope: Result and performance driven creative, developing web and mobile apps
 
 - :detective: Tech enthusiast
