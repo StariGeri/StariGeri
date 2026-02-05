@@ -21,7 +21,7 @@ I am a Computer Science Engineering Student & Full-stack dev with focus on Front
 
 - :detective: Tech enthusiast
 
-- :book: Currently learning Go(lang)
+- :book: Currently learning NestJS
 
 - :seedling: Wrting about webdev / career
 
